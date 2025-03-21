@@ -1,18 +1,18 @@
 #!usr/bin/python3
 
 """Gerador de lero-lero.
-Gera frases de efeito sem significado real"""
+Gera frases de efeito sem significado real."""
 
 import random
 
 parte1 = ["O sistema em desenvolvimento",
-"O novo protocolod e comunicacao",
-"O algorimo orimizado"]
+"O novo protocolo de comunicação",
+"O algoritmo otimizacao"]
 parte2 = ["possui excelente desempenho",
-"oferece garantias de precisao acima da media"
+"oferece garantias de precisão acima da média",
 "preenche uma lacuna significativa"]
-parte3 = ["nas aplicacoes a que se destina",
-"em relacao as opcoes disponiveis do mercado",
-", provendo ampla vantagem competitiva a seus usuarios"]
+parte3 = ["nas aplicações a que se destina",
+"em relação às opções disponíveis do mercado",
+", provendo ampla vantagem competitiva a seus usuários"]
 
-print(random.choice(part1), random.choice(part2), random.choice(part3))
+print(random.choice(parte1), random.choice(parte2), random.choice(parte3))
