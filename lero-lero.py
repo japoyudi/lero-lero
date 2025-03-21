@@ -1,4 +1,5 @@
 #!usr/bin/python3
+#https://github.com/japoyudi/lero-lero
 
 """Gerador de lero-lero.
 Gera frases de efeito sem significado real."""
